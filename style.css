@@ -1,0 +1,132 @@
+*{
+	box-sizing:border-box;
+}
+
+h2 {
+	font-family: 'UnifrakturMaguntia';
+	text-align: center;
+	padding:0;
+    margin:0;
+}
+
+h3 {
+	font-family: 'Bodoni 72 Smallcaps';
+}
+
+p {
+	font-family: 'Special Elite';
+
+}
+
+.lang {
+	text-align: right;
+	padding:0;
+    margin:0;
+}
+
+.nav {
+	background-color: #3C362A;
+	padding:0;
+    margin:0;
+
+}
+.nav a{
+	color: #C9D6EA;
+	padding:0;
+    margin:0;
+}
+
+.top {
+	background-image: url("sabatonheader.png");
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	background-color: #0D0E0D;
+	padding: 100px 0 100px;
+	text-align: center;
+	padding:0;
+    margin:0;
+    padding-bottom: 25px;
+}
+
+.top img{
+	margin: 165px auto 0 auto;
+	width: 60%;
+}
+
+.albums {
+	background-color: #B8C4BB;
+	color: #A8233B;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.albums h2 {
+	width: 100%;
+	padding:0;
+    margin:0;
+}
+
+.meet {
+	background-color: #888C93;
+	color: #A8233B;
+	padding:0;
+    margin:0;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.shows {
+	background-color: #C9D6EA;
+	padding:0;
+    margin:0;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.shows h2{
+	color: #A8233B;
+	padding:0;
+    margin:0;
+
+}
+
+.shows-bars {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	padding:0;
+    margin:0;
+}
+
+
+.contact {
+	background-color: #3C362A;
+	padding:0;
+    margin:0;
+    padding-top: 25px;
+
+}
+
+.members {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+
+}
+
+.contact img{
+	width: 60px;
+	height: 60px;
+}
+
+.discl {
+	font-size: 10px;
+	text-align: center;
+	padding:0;
+    margin:0;
+}
